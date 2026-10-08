@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projetomecanica.Api", "Projetomecanica.Api\Projetomecanica.Api.csproj", "{8D348AD0-3005-4040-8970-963ED1EAD91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D348AD0-3005-4040-8970-963ED1EAD91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D348AD0-3005-4040-8970-963ED1EAD91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D348AD0-3005-4040-8970-963ED1EAD91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D348AD0-3005-4040-8970-963ED1EAD91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C79207D7-1B20-45E6-A340-584AD9AC7D35}
+	EndGlobalSection
+EndGlobal
